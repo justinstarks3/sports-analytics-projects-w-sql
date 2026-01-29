@@ -160,3 +160,6 @@ DataCamp DataLab – Euro 2024 event analysis walkthrough
 
 ---
 
+## What's to come?
+
+A goal is to explore more soccer datasets and sports datasets to see what information can be found through data analysis!
