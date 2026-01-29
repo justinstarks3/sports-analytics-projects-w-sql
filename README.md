@@ -160,11 +160,3 @@ DataCamp DataLab – Euro 2024 event analysis walkthrough
 
 ---
 
-## Author
-
-Justin Starks
-Finance + Data Science | Analytics & Engineering Portfolio
-
----
-
-If you have questions or suggestions, feel free to reach out or open an issue.
